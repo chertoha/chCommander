@@ -1,0 +1,12 @@
+H:\!STEP\C#\Special\chCommander\chCommander\bin\Debug\chCommander.exe.config
+H:\!STEP\C#\Special\chCommander\chCommander\obj\Debug\chCommander.csprojResolveAssemblyReference.cache
+H:\!STEP\C#\Special\chCommander\chCommander\bin\Debug\chCommander.exe
+H:\!STEP\C#\Special\chCommander\chCommander\bin\Debug\chCommander.pdb
+H:\!STEP\C#\Special\chCommander\chCommander\obj\Debug\chCommander.exe
+H:\!STEP\C#\Special\chCommander\chCommander\obj\Debug\chCommander.pdb
+E:\!STEP\C#\Special\chCommander\chCommander\bin\Debug\chCommander.exe.config
+E:\!STEP\C#\Special\chCommander\chCommander\obj\Debug\chCommander.exe
+E:\!STEP\C#\Special\chCommander\chCommander\obj\Debug\chCommander.pdb
+E:\!STEP\C#\Special\chCommander\chCommander\bin\Debug\chCommander.exe
+E:\!STEP\C#\Special\chCommander\chCommander\bin\Debug\chCommander.pdb
+E:\!STEP\C#\Special\chCommander\chCommander\obj\Debug\chCommander.csprojResolveAssemblyReference.cache

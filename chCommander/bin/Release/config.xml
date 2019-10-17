@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<properties>
+		<title>chCommander</title>
+		<backgroundColor>gray</backgroundColor>	
+		<foregroundColor>black</foregroundColor>	
+		<leftWindowStartPath></leftWindowStartPath>	
+		<rightWindowStartPath>C:\</rightWindowStartPath>	
+		<leftWindowActive>true</leftWindowActive>			
+	</properties>
+</config>
